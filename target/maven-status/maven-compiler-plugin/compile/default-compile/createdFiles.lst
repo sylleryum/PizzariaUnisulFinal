@@ -1,0 +1,16 @@
+com\unisul\springsecurity\config\SecurityWebApplicationInitializer.class
+com\unisul\springsecurity\controller\LoginController.class
+com\unisul\springsecurity\dao\ClienteDAO.class
+com\unisul\springsecurity\config\DemoAppConfig.class
+com\unisul\springsecurity\dao\PedidoDAO.class
+com\unisul\springsecurity\dao\HibernateUtil.class
+com\unisul\springsecurity\config\MySpringMvcDispatcherServletInitializer.class
+com\unisul\springsecurity\controller\LinksController.class
+com\unisul\springsecurity\dao\AuthorityDAOImpl.class
+com\unisul\springsecurity\Entity\Authority.class
+com\unisul\springsecurity\Entity\Pedido.class
+com\unisul\springsecurity\dao\AuthorityDAO.class
+com\unisul\springsecurity\config\DemoSecurityConfig.class
+com\unisul\springsecurity\dao\ClienteDAOImpl.class
+com\unisul\springsecurity\dao\PedidoDAOImpl.class
+com\unisul\springsecurity\Entity\Cliente.class
